@@ -36,6 +36,7 @@ Este trabajo se centró en conectar páginas mediante enlaces HTML para crear un
 
 ---
 
+
 ## Trabajo Práctico 6: Landing Page para Fotógrafo
 
 En el sexto trabajo, desarrollamos una landing page para un fotógrafo. Utilizamos propiedades CSS como `margin` para alinear imágenes y mejorar el diseño general de la página.
