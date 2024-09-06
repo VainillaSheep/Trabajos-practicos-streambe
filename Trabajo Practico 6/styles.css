@@ -1,0 +1,22 @@
+#container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+img {
+    width: 30%;
+    height: 30%;
+    margin: 1,4%;
+}
+
+h1 {
+    margin-left: 10%;
+    font-size: 40px;
+    font-family: "Playwrite HR Lijeva";
+    text-transform: uppercase;
+    border-bottom: 2px;
+    border-bottom: 2px solid red;
+    width: 25%;
+    padding: auto;
+}
+
