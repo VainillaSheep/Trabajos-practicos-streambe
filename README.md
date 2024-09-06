@@ -42,4 +42,3 @@ En el sexto trabajo, desarrollamos una landing page para un fotógrafo. Utilizam
 
 ---
 
-Espero que este README te ayude a entender y organizar los trabajos prácticos realizados en la plataforma Streambe. Si tienes preguntas o necesitas más detalles, no dudes en contactarme.
