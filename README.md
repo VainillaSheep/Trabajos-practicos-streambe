@@ -52,3 +52,9 @@ En el octavo trabajo desarollamos una pagina con varios scripts que hacen distin
 ## Trabajo Práctico 9: Devolucion de funciones y matematica simple
 
 En el noveno trabajo practicamos con funciones y que devolvian estas al ejecutarlas y practicamos con el desafio "FizzBuzz 2" de la clase para probar con devoluciones de string.
+
+---
+
+## Trabajo Práctico 10: Acceso a los valores de un objeto
+
+En el decimo trabajo creamos varios objetos con sus propios valores para estos despues ser mostrados y ordenados de distintas formas, tambien tuvimos que responder preguntas de que pasaria con ciertos fragmentos de codigo al ser ejecutados.
