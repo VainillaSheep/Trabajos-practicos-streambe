@@ -43,3 +43,6 @@ En el sexto trabajo, desarrollamos una landing page para un fotógrafo. Utilizam
 
 ---
 
+## Trabajo Práctico 8: Primer contacto con Javascript
+
+En el octavo trabajo desarollamos una pagina con varios scripts que hacen distintas preguntas al visitante y algunos calculos con variables.
